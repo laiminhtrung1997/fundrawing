@@ -1,0 +1,15 @@
+[Object1]
+Type = Rectangle
+Height = 10
+Width = 20
+Symbol = *
+[Object2]
+Type = Triangle
+Height = 10
+Width = 20
+Symbol = *
+[Object3]
+Type = Ellipse
+Height = 10
+Width = 20
+Symbol = *
